@@ -1,6 +1,4 @@
-### Currently working on Data Science Stuff. 
-
-### Proficient in Python, Nodejs, Java, Golang, Rust and more!
+### Proficient in Python, Nodejs, Java and more!
 
 <!--
 **Isaacwhyuenac/Isaacwhyuenac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
