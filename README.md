@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Isaacwhyuenac's Github Stats](https://github-readme-stats.vercel.app/api?username=Isaacwhyuenac)](//isaacwhyuenac.top)
 
 ![](https://komarev.com/ghpvc/?username=Isaacwhyuenac)
+
+![https://metrics.lecoq.io/Isaacwhyuenac](https://metrics.lecoq.io/Isaacwhyuenac)
